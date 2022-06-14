@@ -97,7 +97,7 @@ class MyApp extends PolymerElement {
             class="drawer-list"
             role="navigation"
           >
-            <a name="view1" href="[[rootPath]]view1">Get started</a>
+            <a name="Get started" href="[[rootPath]]view1">Get started</a>
             <a name="view2" href="[[rootPath]]view2">View Two</a>
             <a name="view3" href="[[rootPath]]view3">View Three</a>
           </iron-selector>
