@@ -24,7 +24,7 @@ class MyView1 extends PolymerElement {
 
       <div class="card">
         <div class="circle">1</div>
-        <h1>Get started</h1>
+        <h1>Welcome to 7 Streams</h1>
         <p>Ut labores minimum atomorum pro. Laudem tibique ut has.</p>
         <p>
           Lorem ipsum dolor sit amet, per in nusquam nominavi periculis, sit
