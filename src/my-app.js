@@ -111,7 +111,7 @@ class MyApp extends PolymerElement {
                 icon="my-icons:menu"
                 drawer-toggle=""
               ></paper-icon-button>
-              <div main-title="">7Streams</div>
+              <div main-title="">Leading Wealth Sharing Platform</div>
             </app-toolbar>
           </app-header>
 
